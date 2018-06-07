@@ -64,15 +64,18 @@ weekly big assignmet | 15
 melody memorize | 10
 psalm memorize | 5
 Bounus | infinity
-friday sunday school | 6 
+friday sunday school | 3 
 friday mass attendance | 3 
 
 
 ### VERY IMPORTANT NOTES  
 * Everything is related to your honesty. 
-* I will believe you in whatever you say ,as we are not in a school but in a church ,please never forget it we are in a church .
+* I will believe you in whatever you say ,as we are not in a school but in a church ,please never forget this "we are in a church".
 * It will not be good if I found that you are lying on me.
-* football is not a must but you have the ability to choose another activity if you want
+    * **frist time**  you will lose 0.25 of your points
+    * **second time** you will lose 0.5 of your remainig points
+    * **third time** you will lose all your points
+* football is _not a must_ but you have the ability to choose another activity if you want
 * activities like {art , music , programming , drawing , ..... etc }
 * teams forming is a must 
 * points will be updated every week 
@@ -95,6 +98,7 @@ friday mass attendance | 3
 ### Basic google templates
 * [suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeXAr9VHtrlUd57GYuYVmTBCmUgTbetNKUTAGncNR1tFmlaTg/viewform?usp=sf_link)
 * [disadvantage](https://goo.gl/forms/DHXwUvGMln0nUtWx1)
+* [what you attended](https://goo.gl/forms/rAXk69VQaXOfYWRZ2)
 
 ### Assignments 
 * **week #1**
