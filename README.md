@@ -149,45 +149,45 @@ friday mass attendance | 3
 ## TEAMS 
 
 #### team 1 
-*
-*
-*
-*
-*
+* 
+*  
+*  
+* 
+* 
 #### team 2 
-*
-*
-*
-*
-*
+* 
+* 
+*  
+* 
+* 
 #### team 3 
-*
-*
-*
-*
-*
+* 
+* 
+* 
+* 
+* 
 #### team 4 
-*
-*
-*
-*
-*
+* 
+* 
+* 
+* 
+* 
 #### team 5 
-*
-*
-*
-*
-*
+* 
+* 
+* 
+* 
+* 
 #### team 6 
-*
-*
-*
-*
-*
+* 
+* 
+* 
+* 
+* 
 
 #### END
-**I hope God jesus christ use this work praise his name work with us to help his children**
+**I hope our lord Jesus Christ use this work to praise his name and use us to help his children**
 * contact me 
     * email : peteremad97@hotmail.com
     * mobile number  _(WhatsApp)_ : +21222965445
-copyright©PeterEmad
+* copyright©PeterEmad
