@@ -36,8 +36,8 @@ This summer will be different and I am sure you will get the most available bene
 **event**|**day**|**time**
 -------|---------|-------
 melody | saturday  | 7:30 pm
- | sunday    | 7:30 pm
- | wednesday | 7:30 pm
+melody | sunday    | 7:30 pm
+melody | wednesday | 7:30 pm
 bible study | |
 coptic language | |      
 
