@@ -1,6 +1,6 @@
  
 # بأسم الاب والابن والروح القدس الاله الواحد امين
-![jesus](jesus.jpeg)
+![cross](cross.jpg)
 # كنيسة الانبا انطونيوس والشهيد جورجيوس بالمحلة الكبري
 # خدمة اعدادي بنين
 ![avva antony](antony.jpeg)
@@ -189,5 +189,5 @@ friday mass attendance | 3
 **I hope our lord Jesus Christ use this work to praise his name and use us to help his children**
 * contact me 
     * email : peteremad97@hotmail.com
-    * mobile number  _(WhatsApp)_ : +21222965445
+    * mobile number  _**WhatsApp**_ : +21222965445
 * copyright©PeterEmad
