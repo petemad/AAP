@@ -32,11 +32,12 @@ This summer will be different and I am sure you will get the most available bene
 **note :** it will be the last time to wirte in arabic :)
 
 ## mahragan el keraza activities time table 
+
 **event**|**day**|**time**
 -------|---------|-------
 melody | saturday  | 7:30 pm
-       | sunday    | 7:30 pm
-       | wednesday | 7:30 pm
+ | sunday    | 7:30 pm
+ | wednesday | 7:30 pm
 bible study | |
 coptic language | |      
 
@@ -48,23 +49,23 @@ coptic language | |
 
 ### _**points distribution**_
 
-    Activity | Points 
-    -------|----------
- football match win (whole team) |  3
- football match draw (whole team) | 1 
- Vespers | 2 
- Mass (any day except friday) | 2
- Psalmody (matin or vesper) | 2 
- Any summer activity related to "mahragan el keraza" attendance | 2
- Assignments | 2
- Individual match award | 1 
- Individual round award | 3
- weekly big assignmet | 15
- melody memorize | 10
- psalm memorize | 5
- Bounus | infinity
- friday sunday school | 6 
- friday mass attendance | 3 
+**Activity** | **Points** 
+-------|----------
+football match win (whole team) |  3
+football match draw (whole team) | 1 
+Vespers | 2 
+Mass (any day except friday) | 2
+Psalmody (matin or vesper) | 2 
+Any summer activity related to "mahragan el keraza" attendance | 2
+Assignments | 2
+Individual match award | 1 
+Individual round award | 3
+weekly big assignmet | 15
+melody memorize | 10
+psalm memorize | 5
+Bounus | infinity
+friday sunday school | 6 
+friday mass attendance | 3 
 
 
 ### VERY IMPORTANT NOTES  
