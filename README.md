@@ -32,6 +32,8 @@ This summer will be different and I am sure you will get the most available bene
 **note :** it will be the last time to wirte in arabic :)
 
 ## mahragan el keraza activities time table 
+**event**|**day**|**time**
+-------|---------|-------
 melody | saturday  | 7:30 pm
        | sunday    | 7:30 pm
        | wednesday | 7:30 pm
@@ -46,8 +48,8 @@ coptic language | |
 
 ### _**points distribution**_
 
-    Activity | Points
- --------- | -------- 
+    Activity | Points 
+    -------|----------
  football match win (whole team) |  3
  football match draw (whole team) | 1 
  Vespers | 2 
@@ -87,7 +89,7 @@ coptic language | |
 * if five teams attended together a mass or psalmody on any day except friday each member will get 15 points 
 * if one member of a team did not attended this mass no one of his team will get bounus points
 * for a team that decided to attend a mass together must share this AAP group on facebook and let me know that to share this with your friends and confirm your attend to get your bounus , if you did not share this ; sorry you will not get  your bounus
-* communication between us can be done through our facebook group https://www.facebook.com/groups/679935588874918/?ref=bookmarks
+* communication between us can be done through our [facebook group](https://www.facebook.com/groups/679935588874918/?ref=bookmarks)
 
 ### Basic google templates
 * [suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeXAr9VHtrlUd57GYuYVmTBCmUgTbetNKUTAGncNR1tFmlaTg/viewform?usp=sf_link)
@@ -100,7 +102,9 @@ coptic language | |
 ## Table
 
 **weak # 0**
+
 **#**| **name** | **Points**
+----|-------|------
 01 | abanoub nagy |0
 02 | abanoub tamer |0
 03 | bemen boshra |0
