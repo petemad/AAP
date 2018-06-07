@@ -1,8 +1,13 @@
+ 
 # بأسم الاب والابن والروح القدس الاله الواحد امين
+![jesus](jesus.jpeg)
+# كنيسة الانبا انطونيوس والشهيد جورجيوس بالمحلة الكبري
+# خدمة اعدادي بنين
+![avva antony](antony.jpeg)
 # Summer 2018
 ![Summer](pic.jpg)
 
-This summer will be different and I am sure you will get the most available benefit.
+**This summer will be different and I am sure you will get the most available benefit.**
 
 ## _**Frist of all**_ 
 * you have to make sure that you want to learn something new 
@@ -29,7 +34,7 @@ This summer will be different and I am sure you will get the most available bene
     * من فضلك حاول تكتشف عالم اخر موازي غير اللي انت متعود عليه
     * في النهاية , الصعوبة البسيطة اللي انت انت هتواجهها علشان تترجم المكتوب هتبقي عاملة زي الفلتر اللي هيبين مين جواه ارادة يبقي مختلف ومين لا 
 
-**note :** it will be the last time to wirte in arabic :)
+**note :** I hope this to be the last time to write in English
 
 ## mahragan el keraza activities time table 
 
@@ -179,3 +184,10 @@ friday mass attendance | 3
 *
 *
 *
+
+#### END
+**I hope God jesus christ use this work praise his name work with us to help his children**
+* contact me 
+    * email : peteremad97@hotmail.com
+    * mobile number  _(WhatsApp)_ : +21222965445
+copyright©PeterEmad
