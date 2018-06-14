@@ -2,9 +2,9 @@
 # بأسم الاب والابن والروح القدس الاله الواحد امين
 ![cross](cross.jpg)
 # كنيسة الانبا انطونيوس والشهيد جورجيوس بالمحلة الكبري
-# خدمة اعدادي بنين
+#                  خدمة اعدادي بنين
 ![avva antony](antony.jpeg)
-# Summer 2018
+#                    Summer 2018
 ![Summer](pic.jpg)
 
 **This summer will be different and I am sure you will get the most available benefit.**
@@ -12,7 +12,7 @@
 ## _**Frist of all**_ 
 * you have to make sure that you want to learn something new 
 * nobody can help you to improve yourself 
-* if you do not have the will to make something different you still a kid and it is you choice , may time change this in the future
+* if you do not have the will to make something different you still a kid and it is your choice , may time change this in the future
 
 * **I write in english because :-**
     * You are not a kid 
@@ -22,7 +22,7 @@
     * Please try to discover another side of the world 
     * Finally, this small difficulty will work like a filter for those do not have the desire or enough motivation to be different.
 
-* **ترجمة ما قيل**
+* **ترجمة اللس قلناه**
 * انت لازم تتاكد انك عايز تتعلم حاجة جديدة
 * مفيش اي حد هيقدر يساعدك تتطور نقسك
 * لو انت مش جواك الارادة اللي تخليك عايز تعمل حاجة مختلفة , فده معناه انك لسة طفل صغبر وده قرارك ويمكن مرور الزمن يغير ده جواك
@@ -40,16 +40,26 @@
 
 **event**|**day**|**time**
 -------|---------|-------
-melody | saturday  | 7:30 pm
-melody | sunday    | 7:30 pm
-melody | wednesday | 7:30 pm
-bible study | |
-coptic language | |      
+2l7aaan | saturday  | 7:30 pm
+2l7aaan | sunday    | 7:30 pm
+2l7aaan | wednesday | 7:30 pm
+bible study | tuesday | 7:30 pm
+coptic language | soon | soon       
+psalms | monday | 7:30 pm 
 
 ## AVVA-ANTONY-Prep  AAP LEAGUE 
 * we are going to make a league integrated with our summer activites 
 * every thing will be considered with points and at the end of this summer .... **surprise !**
 ![league](LEAGUE.jpg)
+
+### some vocablary you should know
+**word** | **meaning**
+---- | ----
+vesper | عشية
+Mass | قداس
+psalmody | تسبحة
+melody | لحن
+psalm  | مزمزور
 
 
 ### _**points distribution**_
@@ -68,9 +78,12 @@ Individual round award | 3
 weekly big assignmet | 15
 melody memorize | 10
 psalm memorize | 5
-Bounus | infinity
 friday sunday school | 3 
 friday mass attendance | 3 
+Bounus | infinity
+one team attend mass/vesper togther | 3
+three teams attend mass/vesper together | 10
+five teams attend mass/vesper together | 15
 
 
 ### VERY IMPORTANT NOTES  
@@ -88,6 +101,8 @@ friday mass attendance | 3
 * In this page we will add assignments in all fields (bible studies , coptic language , melodies ...., etc ) 
 * Individual match/round awards are like {"Top scorer" , "clean sheet" , "your attitude in the field" , ... etc }
 * each one will have a secret nick name that you will use to send me assignmests solutions
+* activities will be from monday till thursday from 5 pm to 6 pm
+
 
 ### AAP_League rules and how to get bounus  
 * Each team consists of 5 players
@@ -107,11 +122,12 @@ friday mass attendance | 3
 
 ### Assignments 
 * **week #1**
-    *[assignment1](//link//)
+   *[assignment1](//link//)        
 
-## Table
 
-**weak # 0**
+## This week points  
+
+**thanks _bemen boshra_ for your suggestion**
 
 **#**| **name** | **Points**
 ----|-------|------
@@ -124,27 +140,70 @@ friday mass attendance | 3
 07 | fady nader |0
 08 | mario atef |0
 09 | mark rizkalla|0
-10 | mena hany |0
+10 | mina hany |0
 11 | phelimon adel |0
 12 | kyrollos samuel | 0
 13 | malak mekhael | 0
 14 | andrew emad| 0
-15 | mena mohsen| 0
+15 | mina mohsen| 0
 16 | maged nasser| 0
 17 | kyrollos maher | 0
-18 | mena medhat | 0
+18 | mina medhat | 0
 19 | tony ramy| 0
 20 | yolyos ramzy| 0
-21 | mena rizkalla| 0
+21 | mina rizkalla| 0
 22 | kyrollos samy| 0
-23 | | 0
-24 | | 0
-25 | | 0
-26 | | 0
-27 | | 0 
-28 | | 0
-29 | | 0
-30 | | 0
+23 | john ramzy | 0
+24 | mark adel | 0
+25 | beshoy samuel | 0
+26 | kyrollos nader | 0
+27 | abanoub tamer henen | 0 
+28 | peter sabry | 0
+29 | joseph sadeq | 0
+30 | mina essam  | 0
+31 | mina mimi  | 0
+32 | jan fady | 0
+
+## The overall Table points
+
+**#**| **name** | **Points**
+----|-------|------
+01 | abanoub nagy |0
+02 | abanoub tamer |0
+03 | bemen boshra |0
+04 | beshoy amgad |0
+05 | bola ayman |0
+06 | freddy fady |0
+07 | fady nader |0
+08 | mario atef |0
+09 | mark rizkalla|0
+10 | mina hany |0
+11 | phelimon adel |0
+12 | kyrollos samuel | 0
+13 | malak mekhael | 0
+14 | andrew emad| 0
+15 | mina mohsen| 0
+16 | maged nasser| 0
+17 | kyrollos maher | 0
+18 | mina medhat | 0
+19 | tony ramy| 0
+20 | yolyos ramzy| 0
+21 | mina rizkalla| 0
+22 | kyrollos samy| 0
+23 | john ramzy | 0
+24 | mark adel | 0
+25 | beshoy samuel | 0
+26 | kyrollos nader | 0
+27 | abanoub tamer henen | 0 
+28 | peter sabry | 0
+29 | joseph sadeq | 0
+30 | mina essam  | 0
+31 | mina mimi  | 0
+32 | jan fady | 0
+
+## Best team for this week 
+
+**team** **#** **?????**
 
 ## TEAMS 
 
@@ -190,4 +249,4 @@ friday mass attendance | 3
 * contact me 
     * email : peteremad97@hotmail.com
     * mobile number  _**WhatsApp**_ : +21222965445
-* copyright©PeterEmad
+* copyright©PeterEmadSalah
