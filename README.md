@@ -54,8 +54,9 @@ Revelation (سفر الرؤيا) | thursday | 7:30 pm
 ![league](LEAGUE.jpg)
 
 ### some vocablary you should know
+
 **word** | **meaning**
----- | ----
+----- | -----
 vesper | عشية
 Mass | قداس
 psalmody | تسبحة
@@ -215,30 +216,35 @@ five teams attend mass/vesper together | 15
 *  
 * 
 * 
+
 #### team 2 
 * 
 * 
 *  
 * 
 * 
+
 #### team 3 
 * 
 * 
 * 
 * 
 * 
+
 #### team 4 
 * 
 * 
 * 
 * 
 * 
+
 #### team 5 
 * 
 * 
 * 
 * 
 * 
+
 #### team 6 
 * 
 * 
