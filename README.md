@@ -46,6 +46,7 @@
 bible study | tuesday | 7:30 pm
 coptic language | soon | soon       
 psalms | monday | 7:30 pm 
+Revelation (سفر الرؤيا) | thursday | 7:30 pm
 
 ## AVVA-ANTONY-Prep  AAP LEAGUE 
 * we are going to make a league integrated with our summer activites 
@@ -59,7 +60,7 @@ vesper | عشية
 Mass | قداس
 psalmody | تسبحة
 melody | لحن
-psalm  | مزمزور
+psalm  | مزمور
 
 
 ### _**points distribution**_
@@ -102,7 +103,7 @@ five teams attend mass/vesper together | 15
 * Individual match/round awards are like {"Top scorer" , "clean sheet" , "your attitude in the field" , ... etc }
 * each one will have a secret nick name that you will use to send me assignmests solutions
 * activities will be from monday till thursday from 5 pm to 6 pm
-
+* there is no points for سفر الرؤيا
 
 ### AAP_League rules and how to get bounus  
 * Each team consists of 5 players
@@ -206,6 +207,7 @@ five teams attend mass/vesper together | 15
 **team** **#** **?????**
 
 ## TEAMS 
+**i am still waiting your response for teams !!!!**
 
 #### team 1 
 * 
