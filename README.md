@@ -22,7 +22,7 @@
     * Please try to discover another side of the world 
     * Finally, this small difficulty will work like a filter for those do not have the desire or enough motivation to be different.
 
-* **ترجمة اللس قلناه**
+* **ترجمة اللي قلناه**
 * انت لازم تتاكد انك عايز تتعلم حاجة جديدة
 * مفيش اي حد هيقدر يساعدك تتطور نقسك
 * لو انت مش جواك الارادة اللي تخليك عايز تعمل حاجة مختلفة , فده معناه انك لسة طفل صغبر وده قرارك ويمكن مرور الزمن يغير ده جواك
