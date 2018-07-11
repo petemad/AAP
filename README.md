@@ -136,35 +136,33 @@ five teams attend mass/vesper together | 15
 01 | abanoub nagy |0
 02 | abanoub tamer |0
 03 | bemen boshra |0
-04 | beshoy amgad |0
-05 | bola ayman |0
-06 | freddy fady |0
-07 | fady nader |0
-08 | mario atef |0
-09 | mark rizkalla|0
-10 | mina hany |0
-11 | phelimon adel |0
-12 | kyrollos samuel | 0
-13 | malak mekhael | 0
-14 | andrew emad| 0
-15 | mina mohsen| 0
-16 | maged nasser| 0
-17 | kyrollos maher | 0
-18 | mina medhat | 0
-19 | tony ramy| 0
-20 | yolyos ramzy| 0
-21 | mina rizkalla| 0
-22 | kyrollos samy| 0
-23 | john ramzy | 0
-24 | mark adel | 0
-25 | beshoy samuel | 0
-26 | kyrollos nader | 0
-27 | abanoub tamer henen | 0 
-28 | peter sabry | 0
-29 | joseph sadeq | 0
-30 | mina essam  | 0
-31 | mina mimi  | 0
-32 | jan fady | 0
+04 | bola ayman |0
+05 | freddy fady |0
+06 | fady nader |0
+07 | mario atef |0
+08 | mark rizkalla|0
+09 | mina hany |0
+10 | phelimon adel |0
+11 | kyrollos samuel | 0
+12 | malak mekhael | 0
+13 | andrew emad| 0
+14 | mina mohsen| 0
+15 | maged nasser| 0
+16 | kyrollos maher | 0
+17 | mina medhat | 0
+18 | tony ramy| 0
+19 | youlious ramzy| 0
+20 | mina rizkalla| 0
+21 | kyrollos samy| 0
+22 | john ramzy | 0
+23 | mark adel | 0
+24 | beshoy samuel | 0
+25 | kyrollos nader | 0
+26 | abanoub tamer henen | 0 
+27 | peter sabry | 0
+28 | joseph sadeq | 0
+29 | mina essam  | 0
+30 | jan fady | 0
 
 ## The overall Table points
 
@@ -173,35 +171,33 @@ five teams attend mass/vesper together | 15
 01 | abanoub nagy |0
 02 | abanoub tamer |0
 03 | bemen boshra |0
-04 | beshoy amgad |0
-05 | bola ayman |0
-06 | freddy fady |0
-07 | fady nader |0
-08 | mario atef |0
-09 | mark rizkalla|0
-10 | mina hany |0
-11 | phelimon adel |0
-12 | kyrollos samuel | 0
-13 | malak mekhael | 0
-14 | andrew emad| 0
-15 | mina mohsen| 0
-16 | maged nasser| 0
-17 | kyrollos maher | 0
-18 | mina medhat | 0
-19 | tony ramy| 0
-20 | yolyos ramzy| 0
-21 | mina rizkalla| 0
-22 | kyrollos samy| 0
-23 | john ramzy | 0
-24 | mark adel | 0
-25 | beshoy samuel | 0
-26 | kyrollos nader | 0
-27 | abanoub tamer henen | 0 
-28 | peter sabry | 0
-29 | joseph sadeq | 0
-30 | mina essam  | 0
-31 | mina mimi  | 0
-32 | jan fady | 0
+04 | bola ayman |0
+05 | freddy fady |0
+06 | fady nader |0
+07 | mario atef |0
+08 | mark rizkalla|0
+09 | mina hany |0
+10 | phelimon adel |0
+11 | kyrollos samuel | 0
+12 | malak mekhael | 0
+13 | andrew emad| 0
+14 | mina mohsen| 0
+15 | maged nasser| 0
+16 | kyrollos maher | 0
+17 | mina medhat | 0
+18 | tony ramy| 0
+19 | youlious ramzy| 0
+20 | mina rizkalla| 0
+21 | kyrollos samy| 0
+22 | john ramzy | 0
+23 | mark adel | 0
+24 | beshoy samuel | 0
+25 | kyrollos nader | 0
+26 | abanoub tamer henen | 0 
+27 | peter sabry | 0
+28 | joseph sadeq | 0
+29 | mina essam  | 0
+30 | jan fady | 0
 
 ## Best team for this week 
 
@@ -211,46 +207,47 @@ five teams attend mass/vesper together | 15
 **i am still waiting your response for teams !!!!**
 
 #### team 1 
-* 
-*  
-*  
-* 
-* 
+* Bemen Boshra  
+* Mark Rezkalla 
+* Mina Reskalla 
+* John Ramzy
+* Mina Mohsem
+* Andrew Emad
 
 #### team 2 
-* 
-* 
-*  
-* 
-* 
+* Abanoub Tamer Henin
+* Bola Ayman
+* Mario Atef 
+* Keyrollos Samy
+* Freddy Fady
 
 #### team 3 
-* 
-* 
-* 
-* 
-* 
+* youlious Ramzy
+* Keyrollos Samuel
+* Philimon Adel
+* Mina Essam
+* Fady Nader
 
 #### team 4 
-* 
-* 
-* 
-* 
-* 
+* Abanoub Tamer 
+* Jan fady
+* Mark Adel
+* Beshoy Samuel
+* Keyrollos Nader
 
 #### team 5 
-* 
-* 
-* 
-* 
-* 
+* Peter Sabry
+* Abanoub Nagy
+* Mina Hany
+* Malaak Mekhael
+* Jouseph Sadeq
 
 #### team 6 
-* 
-* 
-* 
-* 
-* 
+* Mina Medhat
+* Maged Nasser
+* Keyrollos Maher
+* Anton Ramy
+
 
 #### END
 **I hope our lord Jesus Christ use this work to praise his name and use us to help his children**
