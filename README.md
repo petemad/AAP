@@ -34,7 +34,7 @@
     * من فضلك حاول تكتشف عالم اخر موازي غير اللي انت متعود عليه
     * في النهاية , الصعوبة البسيطة اللي انت انت هتواجهها علشان تترجم المكتوب هتبقي عاملة زي الفلتر اللي هيبين مين جواه ارادة يبقي مختلف ومين لا 
 
-**note :** I hope this to be the last time to write in English
+**note :** I hope this to be the last time to write in Arabic
 
 ## mahragan el keraza activities time table 
 
@@ -136,13 +136,13 @@ five teams attend mass/vesper together | 15
 01 | abanoub nagy |0
 02 | abanoub tamer |0
 03 | bemen boshra |0
-04 | bola ayman |0
+04 | pola ayman |0
 05 | freddy fady |0
 06 | fady nader |0
 07 | mario atef |0
 08 | mark rizkalla|0
 09 | mina hany |0
-10 | phelimon adel |0
+10 | phillimon adel |0
 11 | kyrollos samuel | 0
 12 | malak mekhael | 0
 13 | andrew emad| 0
@@ -171,13 +171,13 @@ five teams attend mass/vesper together | 15
 01 | abanoub nagy |0
 02 | abanoub tamer |0
 03 | bemen boshra |0
-04 | bola ayman |0
+04 | pola ayman |0
 05 | freddy fady |0
 06 | fady nader |0
 07 | mario atef |0
 08 | mark rizkalla|0
 09 | mina hany |0
-10 | phelimon adel |0
+10 | phillimon adel |0
 11 | kyrollos samuel | 0
 12 | malak mekhael | 0
 13 | andrew emad| 0
@@ -208,15 +208,15 @@ five teams attend mass/vesper together | 15
 
 #### team 1 
 * Bemen Boshra  
-* Mark Rezkalla 
-* Mina Reskalla 
+* Mark Rizkalla 
+* Mina Riskalla 
 * John Ramzy
-* Mina Mohsem
+* Mina Mohsen
 * Andrew Emad
 
 #### team 2 
 * Abanoub Tamer Henin
-* Bola Ayman
+* Pola Ayman
 * Mario Atef 
 * Keyrollos Samy
 * Freddy Fady
@@ -224,7 +224,7 @@ five teams attend mass/vesper together | 15
 #### team 3 
 * youlious Ramzy
 * Keyrollos Samuel
-* Philimon Adel
+* Phillimon Adel
 * Mina Essam
 * Fady Nader
 
@@ -240,7 +240,7 @@ five teams attend mass/vesper together | 15
 * Abanoub Nagy
 * Mina Hany
 * Malaak Mekhael
-* Jouseph Sadeq
+* Joseph Sadeq
 
 #### team 6 
 * Mina Medhat
