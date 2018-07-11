@@ -1,5 +1,5 @@
  
-# بأسم الاب والابن والروح القدس الاله الواحد امين
+# بسم الاب والابن والروح القدس الاله الواحد امين
 ![cross](cross.jpg)
 # كنيسة الانبا انطونيوس والشهيد جورجيوس بالمحلة الكبري
 #                  خدمة اعدادي بنين
@@ -25,7 +25,7 @@
 * **ترجمة اللي قلناه**
 * انت لازم تتاكد انك عايز تتعلم حاجة جديدة
 * مفيش اي حد هيقدر يساعدك تتطور نقسك
-* لو انت مش جواك الارادة اللي تخليك عايز تعمل حاجة مختلفة , فده معناه انك لسة طفل صغبر وده قرارك ويمكن مرور الزمن يغير ده جواك
+* لو انت مش جواك الارادة اللي تخليك عايز تعمل حاجة مختلفة , فده معناه انك لسة طفل صغير وده قرارك ويمكن مرور الزمن يغير ده جواك
 * **انا كتبت بالانجليزي علشان**
     * انت مش طفل
     * ترجمة جوجل ممكن تساعدك تفهم اللي انت مش فاهمه
@@ -160,7 +160,7 @@ five teams attend mass/vesper together | 15
 25 | kyrollos nader | 0
 26 | abanoub tamer henen | 0 
 27 | peter sabry | 0
-28 | joseph sadeq | 0
+28 | joseph sadek | 0
 29 | mina essam  | 0
 30 | jan fady | 0
 
@@ -195,7 +195,7 @@ five teams attend mass/vesper together | 15
 25 | kyrollos nader | 0
 26 | abanoub tamer henen | 0 
 27 | peter sabry | 0
-28 | joseph sadeq | 0
+28 | joseph sadek | 0
 29 | mina essam  | 0
 30 | jan fady | 0
 
@@ -240,7 +240,7 @@ five teams attend mass/vesper together | 15
 * Abanoub Nagy
 * Mina Hany
 * Malaak Mekhael
-* Joseph Sadeq
+* Joseph Sadek
 
 #### team 6 
 * Mina Medhat
