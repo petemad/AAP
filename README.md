@@ -149,20 +149,20 @@ five teams attend mass/vesper together | 15
 12 | mina hany |11
 13 | mina essam  | 13
 14 | jan fady | 10
-15 | abanoub nagy |0
-16 | abanoub tamer |0
-17 | mario atef |0
-18 | malak mekhael | 0
-19 | andrew emad| 0
-20 | maged nasser| 0
-21 | kyrollos maher | 0
-22 | mina medhat | 0
-23 | tony ramy| 0
-24| john ramzy | 0
-25 | mark adel | 0
-26 | beshoy samuel | 0
-27 | kyrollos nader | 0
-28 | abanoub tamer henen | 8 
+15 | abanoub tamer henen | 8 
+16 | abanoub nagy |0
+17 | abanoub tamer |0
+18 | mario atef |0
+19 | malak mekhael | 0
+20 | andrew emad| 0
+21 | maged nasser| 0
+22 | kyrollos maher | 0
+23 | mina medhat | 0
+24 | tony ramy| 0
+25| john ramzy | 0
+26 | mark adel | 0
+27 | beshoy samuel | 0
+28 | kyrollos nader | 0
 29 | peter sabry | 0
 30 | joseph sadek | 0
 31| kariem john | 0
@@ -186,23 +186,24 @@ five teams attend mass/vesper together | 15
 12 | mina hany |11
 13 | mina essam  | 13
 14 | jan fady | 10
-15 | abanoub nagy |0
-16 | abanoub tamer |0
-17 | mario atef |0
-18 | malak mekhael | 0
-19 | andrew emad| 0
-20 | maged nasser| 0
-21 | kyrollos maher | 0
-22 | mina medhat | 0
-23 | tony ramy| 0
-24| john ramzy | 0
-25 | mark adel | 0
-26 | beshoy samuel | 0
-27 | kyrollos nader | 0
-28 | abanoub tamer henen | 8 
+15 | abanoub tamer henen | 8 
+16 | abanoub nagy |0
+17 | abanoub tamer |0
+18 | mario atef |0
+19 | malak mekhael | 0
+20 | andrew emad| 0
+21 | maged nasser| 0
+22 | kyrollos maher | 0
+23 | mina medhat | 0
+24 | tony ramy| 0
+25| john ramzy | 0
+26 | mark adel | 0
+27 | beshoy samuel | 0
+28 | kyrollos nader | 0
 29 | peter sabry | 0
 30 | joseph sadek | 0
 31| kariem john | 0
+
 
 
 ## Best team for this week 
