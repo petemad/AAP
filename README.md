@@ -129,77 +129,81 @@ five teams attend mass/vesper together | 15
 
 ## This week points  
 
+**we are sorry for mark adel because he lost all his 13 points as he didnot attended bible study**
+
 **thanks _bemen boshra_ for your suggestion**
 
 **#**| **name** | **Points**
 ----|-------|------
-01 | abanoub nagy |0
-02 | abanoub tamer |0
-03 | bemen boshra |0
-04 | pola ayman |0
-05 | freddy fady |0
-06 | fady nader |0
-07 | mario atef |0
-08 | mark rizkalla|0
-09 | mina hany |0
-10 | phillimon adel |0
-11 | kyrollos samuel | 0
-12 | malak mekhael | 0
-13 | andrew emad| 0
-14 | mina mohsen| 0
-15 | maged nasser| 0
-16 | kyrollos maher | 0
-17 | mina medhat | 0
-18 | tony ramy| 0
-19 | youlious ramzy| 0
-20 | mina rizkalla| 0
-21 | kyrollos samy| 0
-22 | john ramzy | 0
-23 | mark adel | 0
-24 | beshoy samuel | 0
-25 | kyrollos nader | 0
-26 | abanoub tamer henen | 0 
-27 | peter sabry | 0
-28 | joseph sadek | 0
-29 | mina essam  | 0
-30 | jan fady | 0
+01 | youlious ramzy| 26
+02 | kyrollos samy| 20
+03 | mark rizkalla|18
+04 | kyrollos samuel | 18
+05 | mina rizkalla| 18
+06 | bemen boshra |16
+07 | freddy fady |16
+08 | fady nader |16
+09 | phillimon adel |15
+10 | mina mohsen| 14
+11 | pola ayman |12
+12 | mina hany |11
+13 | mina essam  | 13
+14 | jan fady | 10
+15 | abanoub nagy |0
+16 | abanoub tamer |0
+17 | mario atef |0
+18 | malak mekhael | 0
+19 | andrew emad| 0
+20 | maged nasser| 0
+21 | kyrollos maher | 0
+22 | mina medhat | 0
+23 | tony ramy| 0
+24| john ramzy | 0
+25 | mark adel | 0
+26 | beshoy samuel | 0
+27 | kyrollos nader | 0
+28 | abanoub tamer henen | 8 
+29 | peter sabry | 0
+30 | joseph sadek | 0
 31| kariem john | 0
 
 ## The overall Table points
 
+
 **#**| **name** | **Points**
 ----|-------|------
-01 | abanoub nagy |0
-02 | abanoub tamer |0
-03 | bemen boshra |0
-04 | pola ayman |0
-05 | freddy fady |0
-06 | fady nader |0
-07 | mario atef |0
-08 | mark rizkalla|0
-09 | mina hany |0
-10 | phillimon adel |0
-11 | kyrollos samuel | 0
-12 | malak mekhael | 0
-13 | andrew emad| 0
-14 | mina mohsen| 0
-15 | maged nasser| 0
-16 | kyrollos maher | 0
-17 | mina medhat | 0
-18 | tony ramy| 0
-19 | youlious ramzy| 0
-20 | mina rizkalla| 0
-21 | kyrollos samy| 0
-22 | john ramzy | 0
-23 | mark adel | 0
-24 | beshoy samuel | 0
-25 | kyrollos nader | 0
-26 | abanoub tamer henen | 0 
-27 | peter sabry | 0
-28 | joseph sadek | 0
-29 | mina essam  | 0
-30 | jan fady | 0
+01 | youlious ramzy| 26
+02 | kyrollos samy| 20
+03 | mark rizkalla|18
+04 | kyrollos samuel | 18
+05 | mina rizkalla| 18
+06 | bemen boshra |16
+07 | freddy fady |16
+08 | fady nader |16
+09 | phillimon adel |15
+10 | mina mohsen| 14
+11 | pola ayman |12
+12 | mina hany |11
+13 | mina essam  | 13
+14 | jan fady | 10
+15 | abanoub nagy |0
+16 | abanoub tamer |0
+17 | mario atef |0
+18 | malak mekhael | 0
+19 | andrew emad| 0
+20 | maged nasser| 0
+21 | kyrollos maher | 0
+22 | mina medhat | 0
+23 | tony ramy| 0
+24| john ramzy | 0
+25 | mark adel | 0
+26 | beshoy samuel | 0
+27 | kyrollos nader | 0
+28 | abanoub tamer henen | 8 
+29 | peter sabry | 0
+30 | joseph sadek | 0
 31| kariem john | 0
+
 
 ## Best team for this week 
 
