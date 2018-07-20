@@ -99,7 +99,7 @@ five teams attend mass/vesper together | 15
 * activities like {art , music , programming , drawing , ..... etc }
 * teams forming is a must 
 * points will be updated every week 
-* Your week points will not be added if you did not attend at least a mass each week
+* Your week points will not be added if you did not attend at least a mass and bible study each week
 * In this page we will add assignments in all fields (bible studies , coptic language , melodies ...., etc ) 
 * Individual match/round awards are like {"Top scorer" , "clean sheet" , "your attitude in the field" , ... etc }
 * each one will have a secret nick name that you will use to send me assignmests solutions
@@ -120,7 +120,7 @@ five teams attend mass/vesper together | 15
 ### Basic google templates
 * [suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeXAr9VHtrlUd57GYuYVmTBCmUgTbetNKUTAGncNR1tFmlaTg/viewform?usp=sf_link)
 * [disadvantage](https://goo.gl/forms/DHXwUvGMln0nUtWx1)
-* [what you attended](https://goo.gl/forms/rAXk69VQaXOfYWRZ2)
+* [what you attended](https://goo.gl/forms/MUGF9NohhOkT2WDE3)
 
 ### Assignments 
 * **week #1**
