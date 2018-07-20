@@ -145,15 +145,15 @@ five teams attend mass/vesper together | 15
 08 | fady nader |16
 09 | phillimon adel |15
 10 | mina mohsen| 14
-11 | pola ayman |12
-12 | mina hany |11
-13 | mina essam  | 13
-14 | jan fady | 10
-15 | abanoub tamer henen | 8 
-16 | abanoub nagy |0
-17 | abanoub tamer |0
-18 | mario atef |0
-19 | malak mekhael | 0
+11 | mina essam  | 13
+12 | pola ayman |12
+13 | mario atef |12
+14 | peter sabry | 12
+15 | mina hany |11
+16 | jan fady | 10
+17 | abanoub tamer henen | 8 
+18 | abanoub nagy |0
+19 | abanoub tamer |0
 20 | andrew emad| 0
 21 | maged nasser| 0
 22 | kyrollos maher | 0
@@ -163,7 +163,7 @@ five teams attend mass/vesper together | 15
 26 | mark adel | 0
 27 | beshoy samuel | 0
 28 | kyrollos nader | 0
-29 | peter sabry | 0
+29 | malak mekhael | 0
 30 | joseph sadek | 0
 31| kariem john | 0
 
@@ -182,15 +182,15 @@ five teams attend mass/vesper together | 15
 08 | fady nader |16
 09 | phillimon adel |15
 10 | mina mohsen| 14
-11 | pola ayman |12
-12 | mina hany |11
-13 | mina essam  | 13
-14 | jan fady | 10
-15 | abanoub tamer henen | 8 
-16 | abanoub nagy |0
-17 | abanoub tamer |0
-18 | mario atef |0
-19 | malak mekhael | 0
+11 | mina essam  | 13
+12 | pola ayman |12
+13 | mario atef |12
+14 | peter sabry | 12
+15 | mina hany |11
+16 | jan fady | 10
+17 | abanoub tamer henen | 8 
+18 | abanoub nagy |0
+19 | abanoub tamer |0
 20 | andrew emad| 0
 21 | maged nasser| 0
 22 | kyrollos maher | 0
@@ -200,7 +200,7 @@ five teams attend mass/vesper together | 15
 26 | mark adel | 0
 27 | beshoy samuel | 0
 28 | kyrollos nader | 0
-29 | peter sabry | 0
+29 | malak mekhael | 0
 30 | joseph sadek | 0
 31| kariem john | 0
 
