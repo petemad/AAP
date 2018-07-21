@@ -129,6 +129,33 @@ five teams attend mass/vesper together | 15
 * **week #2**
     *[assignment2](https://goo.gl/forms/KN2MrRvwTqLiTkBy2) 
 
+## الحان الكرازة 2018
+![david](داود.jpeg)
+
+### الهيتنيات 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FoUbRqY_mMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### الهوس الثاني
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FoUbRqY_mMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### التوزيع السنوي
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VW-T6QF5Hx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### الهوس الرابع
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vz2Xu78zru8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### افلوجيمينوس الصغير
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkjbBLKNVAw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### تي شوري الحزايني الصغير
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YrStrgjkpJI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## This week points  
 
 **we are sorry for mark adel because he lost all his 13 points as he didnot attended bible study**
