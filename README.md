@@ -132,7 +132,7 @@ five teams attend mass/vesper together | 15
 ## الحان الكرازة 2018
 ![david](داود.jpeg)
 
-![play list](https://www.youtube.com/watch?v=owl5IStzeh4&list=PLv-Yb7Hc3mDj0-POizJrPPF95Ja6wbBmO)
+[play list](https://www.youtube.com/watch?v=owl5IStzeh4&list=PLv-Yb7Hc3mDj0-POizJrPPF95Ja6wbBmO)
 
 ### الهيتنيات 
 
