@@ -99,7 +99,7 @@ five teams attend mass/vesper together | 15
 * activities like {art , music , programming , drawing , ..... etc }
 * teams forming is a must 
 * points will be updated every week 
-* Your week points will not be added if you did not attend at least a mass each week
+* Your week points will not be added if you did not attend at least a mass and bible study each week
 * In this page we will add assignments in all fields (bible studies , coptic language , melodies ...., etc ) 
 * Individual match/round awards are like {"Top scorer" , "clean sheet" , "your attitude in the field" , ... etc }
 * each one will have a secret nick name that you will use to send me assignmests solutions
@@ -120,7 +120,7 @@ five teams attend mass/vesper together | 15
 ### Basic google templates
 * [suggestion](https://docs.google.com/forms/d/e/1FAIpQLSeXAr9VHtrlUd57GYuYVmTBCmUgTbetNKUTAGncNR1tFmlaTg/viewform?usp=sf_link)
 * [disadvantage](https://goo.gl/forms/DHXwUvGMln0nUtWx1)
-* [what you attended](https://goo.gl/forms/rAXk69VQaXOfYWRZ2)
+* [what you attended](https://goo.gl/forms/MUGF9NohhOkT2WDE3)
 
 ### Assignments 
 * **week #1**
@@ -130,77 +130,82 @@ five teams attend mass/vesper together | 15
 
 ## This week points  
 
+**we are sorry for mark adel because he lost all his 13 points as he didnot attended bible study**
+
 **thanks _bemen boshra_ for your suggestion**
 
 **#**| **name** | **Points**
 ----|-------|------
-01 | abanoub nagy |0
-02 | abanoub tamer |0
-03 | bemen boshra |0
-04 | pola ayman |0
-05 | freddy fady |0
-06 | fady nader |0
-07 | mario atef |0
-08 | mark rizkalla|0
-09 | mina hany |0
-10 | phillimon adel |0
-11 | kyrollos samuel | 0
-12 | malak mekhael | 0
-13 | andrew emad| 0
-14 | mina mohsen| 0
-15 | maged nasser| 0
-16 | kyrollos maher | 0
-17 | mina medhat | 0
-18 | tony ramy| 0
-19 | youlious ramzy| 0
-20 | mina rizkalla| 0
-21 | kyrollos samy| 0
-22 | john ramzy | 0
-23 | mark adel | 0
-24 | beshoy samuel | 0
-25 | kyrollos nader | 0
-26 | abanoub tamer henen | 0 
-27 | peter sabry | 0
-28 | joseph sadek | 0
-29 | mina essam  | 0
-30 | jan fady | 0
+01 | youlious ramzy| 26
+02 | kyrollos samy| 20
+03 | mark rizkalla|18
+04 | kyrollos samuel | 18
+05 | mina rizkalla| 18
+06 | bemen boshra |16
+07 | freddy fady |16
+08 | fady nader |16
+09 | phillimon adel |15
+10 | mina mohsen| 14
+11 | mina essam  | 13
+12 | pola ayman |12
+13 | mario atef |12
+14 | peter sabry | 12
+15 | mina hany |11
+16 | jan fady | 10
+17 | abanoub tamer henen | 8 
+18 | abanoub nagy |0
+19 | abanoub tamer |0
+20 | andrew emad| 0
+21 | maged nasser| 0
+22 | kyrollos maher | 0
+23 | mina medhat | 0
+24 | tony ramy| 0
+25| john ramzy | 0
+26 | mark adel | 0
+27 | beshoy samuel | 0
+28 | kyrollos nader | 0
+29 | malak mekhael | 0
+30 | joseph sadek | 0
 31| kariem john | 0
 
 ## The overall Table points
 
+
 **#**| **name** | **Points**
 ----|-------|------
-01 | abanoub nagy |0
-02 | abanoub tamer |0
-03 | bemen boshra |0
-04 | pola ayman |0
-05 | freddy fady |0
-06 | fady nader |0
-07 | mario atef |0
-08 | mark rizkalla|0
-09 | mina hany |0
-10 | phillimon adel |0
-11 | kyrollos samuel | 0
-12 | malak mekhael | 0
-13 | andrew emad| 0
-14 | mina mohsen| 0
-15 | maged nasser| 0
-16 | kyrollos maher | 0
-17 | mina medhat | 0
-18 | tony ramy| 0
-19 | youlious ramzy| 0
-20 | mina rizkalla| 0
-21 | kyrollos samy| 0
-22 | john ramzy | 0
-23 | mark adel | 0
-24 | beshoy samuel | 0
-25 | kyrollos nader | 0
-26 | abanoub tamer henen | 0 
-27 | peter sabry | 0
-28 | joseph sadek | 0
-29 | mina essam  | 0
-30 | jan fady | 0
+01 | youlious ramzy| 26
+02 | kyrollos samy| 20
+03 | mark rizkalla|18
+04 | kyrollos samuel | 18
+05 | mina rizkalla| 18
+06 | bemen boshra |16
+07 | freddy fady |16
+08 | fady nader |16
+09 | phillimon adel |15
+10 | mina mohsen| 14
+11 | mina essam  | 13
+12 | pola ayman |12
+13 | mario atef |12
+14 | peter sabry | 12
+15 | mina hany |11
+16 | jan fady | 10
+17 | abanoub tamer henen | 8 
+18 | abanoub nagy |0
+19 | abanoub tamer |0
+20 | andrew emad| 0
+21 | maged nasser| 0
+22 | kyrollos maher | 0
+23 | mina medhat | 0
+24 | tony ramy| 0
+25| john ramzy | 0
+26 | mark adel | 0
+27 | beshoy samuel | 0
+28 | kyrollos nader | 0
+29 | malak mekhael | 0
+30 | joseph sadek | 0
 31| kariem john | 0
+
+
 
 ## Best team for this week 
 
