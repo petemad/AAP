@@ -124,8 +124,9 @@ five teams attend mass/vesper together | 15
 
 ### Assignments 
 * **week #1**
-   *[assignment1](https://goo.gl/forms/p3WH1NtNzdGtlS0N2)        
-
+   *[assignment1](https://goo.gl/forms/p3WH1NtNzdGtlS0N2)
+* **week #2**           
+   *[assignment2](https://goo.gl/forms/KN2MrRvwTqLiTkBy2) 
 
 ## This week points  
 
