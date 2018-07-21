@@ -138,6 +138,10 @@ five teams attend mass/vesper together | 15
 
 [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-pdYK9Xg8Jw
+" target="_blank"><img src="http://img.youtube.com/vi/-pdYK9Xg8Jw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ### الهوس الثاني
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FoUbRqY_mMc" frameborder="0" allow="autoplay;
