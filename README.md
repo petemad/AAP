@@ -134,27 +134,27 @@ five teams attend mass/vesper together | 15
 
 ### الهيتنيات 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FoUbRqY_mMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](<iframe width="560" height="315" src="https://www.youtube.com/embed/FoUbRqY_mMc" frameborder="0" allow="autoplay;) 
 
 ### الهوس الثاني
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FoUbRqY_mMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FoUbRqY_mMc" frameborder="0" allow="autoplay;
 
 ### التوزيع السنوي
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VW-T6QF5Hx4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VW-T6QF5Hx4" frameborder="0" allow="autoplay;
 
 ### الهوس الرابع
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vz2Xu78zru8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vz2Xu78zru8" frameborder="0" allow="autoplay; 
 
 ### افلوجيمينوس الصغير
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QkjbBLKNVAw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkjbBLKNVAw" frameborder="0" allow="autoplay; 
 
 ### تي شوري الحزايني الصغير
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YrStrgjkpJI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YrStrgjkpJI" frameborder="0" allow="autoplay; 
 
 ## This week points  
 
