@@ -128,6 +128,7 @@ five teams attend mass/vesper together | 15
 
 * **week #2**
     *[assignment2](https://goo.gl/forms/KN2MrRvwTqLiTkBy2) 
+    *[assignment2.1](https://goo.gl/forms/OxNThjzAb5pghvpt1)
 
 ## الحان الكرازة 2018
 ![david](داود.jpeg)
@@ -196,15 +197,15 @@ five teams attend mass/vesper together | 15
 03 | phillimon adel |35 | up
 04 | pola ayman |34 | up
 05 | jan fady | 34 | up
-06 | mario atef |26 | up
-07 | youlious ramzy| 26 | down
-08 | mark rizkalla|18 | down
-09 | mina rizkalla| 18 |  down
-10 | mark adel | 18 | up
-11 | bemen boshra |16 | down
-12 | freddy fady |16 | down
-13 | fady nader |16 |  down
-14 | abanoub nagy |14 | up
+06 | abanoub nagy |28 | up
+07 | mario atef |26 | up
+08 | youlious ramzy| 26 | down
+09 | mark rizkalla|18 | down
+10 | mina rizkalla| 18 |  down
+11 | mark adel | 18 | up
+12 | bemen boshra |16 | down
+13 | freddy fady |16 | down
+14 | fady nader |16 |  down
 15 | mina mohsen| 14 | down
 16 | mina essam  | 13 | down
 17 | peter sabry | 12 | down
