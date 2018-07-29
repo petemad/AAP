@@ -149,30 +149,30 @@ five teams attend mass/vesper together | 15
 
 ## This week points  
 
-**we are sorry for _youlious_ , _freddy_ , _abanoub tamer henen_ because they lost all their points as they did not attend bible study and _mina hany_ because he is not in el mahalla**
+**wwe are sorry as the last week there was no bible study** 
 
 **thanks _bemen boshra_ for your suggestion**
 
 **#**| **name** | **Points**
 ----|-------|------
-01 | kyrollos samuel | 30
-02 | youlious ramzy| 24 ==> 0 
-03 | jan fady | 24
-04 | pola ayman | 22
-05 | phillimon adel |20
-06 | kyrollos samy| 18
-07 | mark adel | 18
-08 | mark rizkalla|18
-09 | mina rizkalla| 18
-10 | bemen boshra |16
-11 | fady nader |16
-12 | mario atef |14
-13 | abanoub nagy | 14
-14 | mina essam  | 13
-15 | freddy fady | 12 ==> 0
-16 | peter sabry | 12
-17 | mina hany |0  msafer
-18 | abanoub tamer henen | 11 ==> 0 
+01 | jan fady | 29
+02 | phillimon adel |29
+03 | kyrollos samuel | 26
+04 | pola ayman | 24
+05 | kyrollos samy| 24
+06 | freddy fady | 22
+07 | youlious ramzy| 20
+08 | mario atef |19
+09 | mark adel | 12
+10 | mark rizkalla| 8
+11 | beshoy samuel | 6
+12 | mina rizkalla| 6
+13 | abanoub nagy | 0 
+14 | mina essam  | 0
+15 | fady nader | 0
+16 | peter sabry | 0
+17 | mina hany | 0
+18 | abanoub tamer henen | 0 
 19 | mina mohsen| 0
 20 | abanoub tamer |0
 21 | andrew emad| 0
@@ -181,7 +181,7 @@ five teams attend mass/vesper together | 15
 24 | mina medhat | 0
 25 | tony ramy| 0
 26 | john ramzy | 0
-27 | beshoy samuel | 0
+27 | bemen boshra | 0
 28 | kyrollos nader | 0
 29 | malak mekhael | 0
 30 | joseph sadek | 0
@@ -192,25 +192,25 @@ five teams attend mass/vesper together | 15
 
 **#**| **name** | **Points** | **up/down** 
 ----|-------|------ | --------
-01 | kyrollos samuel | 48 | up 
-02 | kyrollos samy| 38 | --
-03 | phillimon adel |35 | up
-04 | pola ayman |34 | up
-05 | jan fady | 34 | up
-06 | abanoub nagy |28 | up
-07 | mario atef |26 | up
-08 | youlious ramzy| 26 | down
-09 | mark rizkalla|18 | down
-10 | mina rizkalla| 18 |  down
-11 | mark adel | 18 | up
-12 | bemen boshra |16 | down
-13 | freddy fady |16 | down
-14 | fady nader |16 |  down
-15 | mina mohsen| 14 | down
-16 | mina essam  | 13 | down
-17 | peter sabry | 12 | down
-18 | mina hany |11 | down
-19 | abanoub tamer henen | 8 | down
+01 | kyrollos samuel | 74 | -- 
+02 | phillimon adel |64 | up
+03 | kyrollos samy| 62 | down
+04 | jan fady | 63 | up
+05 | pola ayman |58 | down
+06 | youlious ramzy| 46 | up
+07 | mario atef |45 | --
+08 | freddy fady |38 | up
+09 | mark adel | 30 | up
+10 | abanoub nagy |28 | down
+11 | mark rizkalla|26 | down
+12 | mina rizkalla| 24 |  down
+13 | bemen boshra |16 | down
+14 | fady nader |16 |  --
+15 | mina mohsen| 14 | --
+16 | mina essam  | 13 | --
+17 | peter sabry | 12 | --
+18 | mina hany |11 | --
+19 | abanoub tamer henen | 8 | --
 20 | abanoub tamer |0 | --
 21 | andrew emad| 0 | --
 22 | maged nasser| 0 | --
