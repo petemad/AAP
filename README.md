@@ -160,7 +160,7 @@ five teams attend mass/vesper together | 15
 03 | kyrollos samuel | 26
 04 | pola ayman | 24
 05 | kyrollos samy| 24
-06 | freddy fady | 22
+06 | freddy fady | 20
 07 | youlious ramzy| 20
 08 | mario atef |19
 09 | mark adel | 12
@@ -199,7 +199,7 @@ five teams attend mass/vesper together | 15
 05 | pola ayman |58 | down
 06 | youlious ramzy| 46 | up
 07 | mario atef |45 | --
-08 | freddy fady |38 | up
+08 | freddy fady |36 | up
 09 | mark adel | 30 | up
 10 | abanoub nagy |28 | down
 11 | mark rizkalla|26 | down
