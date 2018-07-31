@@ -135,6 +135,8 @@ five teams attend mass/vesper together | 15
 
 [play list](https://www.youtube.com/watch?v=owl5IStzeh4&list=PLv-Yb7Hc3mDj0-POizJrPPF95Ja6wbBmO)
 
+[المادة الطقسية](https://drive.google.com/open?id=1B6xovZinHwAlA2k3AYSpeaDw2LSZxjx5)
+
 ### الهيتنيات 
 
 ### الهوس الثاني
@@ -156,23 +158,23 @@ five teams attend mass/vesper together | 15
 **#**| **name** | **Points**
 ----|-------|------
 01 | jan fady | 29
-02 | phillimon adel |29
-03 | kyrollos samuel | 26
-04 | pola ayman | 24
-05 | kyrollos samy| 24
-06 | freddy fady | 20
-07 | youlious ramzy| 20
-08 | mario atef |19
-09 | mark adel | 12
-10 | mark rizkalla| 8
-11 | beshoy samuel | 6
-12 | mina rizkalla| 6
-13 | abanoub nagy | 0 
-14 | mina essam  | 0
-15 | fady nader | 0
-16 | peter sabry | 0
-17 | mina hany | 0
-18 | abanoub tamer henen | 0 
+02 | phillimon adel | 29
+03 | mario atef | 29
+04 | kyrollos samuel | 26
+05 | pola ayman | 24
+06 | kyrollos samy| 24
+07 | mina hany | 24
+08 | freddy fady | 20
+09 | youlious ramzy| 20
+10 | abanoub tamer henen | 20
+11 | abanoub nagy | 18 
+12 | mark adel | 12
+13 | mark rizkalla| 8
+14 | beshoy samuel | 6
+15 | mina rizkalla| 6
+16 | mina essam  | 0
+17 | fady nader | 0
+18 | peter sabry | 0
 19 | mina mohsen| 0
 20 | abanoub tamer |0
 21 | andrew emad| 0
@@ -186,6 +188,7 @@ five teams attend mass/vesper together | 15
 29 | malak mekhael | 0
 30 | joseph sadek | 0
 31 | kariem john | 0
+32 | mark youssef | 0
 
 ## The overall Table points
 
@@ -197,20 +200,20 @@ five teams attend mass/vesper together | 15
 03 | kyrollos samy| 62 | down
 04 | jan fady | 63 | up
 05 | pola ayman |58 | down
-06 | youlious ramzy| 46 | up
-07 | mario atef |45 | --
-08 | freddy fady |36 | up
-09 | mark adel | 30 | up
-10 | abanoub nagy |28 | down
-11 | mark rizkalla|26 | down
-12 | mina rizkalla| 24 |  down
-13 | bemen boshra |16 | down
-14 | fady nader |16 |  --
-15 | mina mohsen| 14 | --
-16 | mina essam  | 13 | --
-17 | peter sabry | 12 | --
-18 | mina hany |11 | --
-19 | abanoub tamer henen | 8 | --
+06 | mario atef |55 | up
+07 | youlious ramzy| 46 | down
+08 | abanoub nagy |36 | up
+09 | freddy fady |36 | up
+10 | mina hany | 35 | up
+11 | mark adel | 30 | down
+12 | abanoub tamer henen | 28 | up
+13 | mark rizkalla|26 | down
+14 | mina rizkalla| 24 |  down
+15 | bemen boshra |16 | down
+16 | fady nader |16 |  --
+17 | mina mohsen| 14 | --
+18 | mina essam  | 13 | --
+19 | peter sabry | 12 | --
 20 | abanoub tamer |0 | --
 21 | andrew emad| 0 | --
 22 | maged nasser| 0 | --
@@ -223,6 +226,7 @@ five teams attend mass/vesper together | 15
 29 | malak mekhael | 0 | --
 30 | joseph sadek | 0 |--
 31 | kariem john | 0 |--
+32 | mark youssef | 0 | --
 
 ## Best team for this week 
 
@@ -252,6 +256,7 @@ five teams attend mass/vesper together | 15
 * Phillimon Adel
 * Mina Essam
 * Fady Nader
+* Mark Youssef
 
 #### team 4 
 * Abanoub Tamer 
