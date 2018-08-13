@@ -163,11 +163,11 @@ five teams attend mass/vesper together | 15
 04 | mark youssef | 20
 05 | youlious ramzy| 18
 06 | pola ayman | 10
-07 | kyrollos samy| 0
-08 | mina hany | 0
-09 | freddy fady | 0
-10 | kyrollos samuel | 0
-11 | abanoub tamer henen | 0
+07 | kyrollos samy| 18
+08 | mina hany | 16
+09 | freddy fady | 16
+10 | kyrollos samuel | 22
+11 | abanoub tamer henen | 22
 12 | abanoub nagy | 0
 13 | mark adel | 0
 14 | mark rizkalla| 0
@@ -177,7 +177,7 @@ five teams attend mass/vesper together | 15
 18 | fady nader | 0
 19 | mario atef | 0
 20 | mina mohsen| 0
-21 | abanoub tamer |0
+21 | abanoub tamer | 18
 22 | andrew emad| 0
 23 | maged nasser| 0
 24 | mina medhat | 0
@@ -195,27 +195,27 @@ five teams attend mass/vesper together | 15
 
 **#**| **name** | **Points** | **up/down** 
 ----|-------|------ | --------
-01 | phillimon adel |88 | up
-02 | jan fady | 87 | up
-03 | kyrollos samuel | 74 | down 
-04 | pola ayman |68 | up
-05 | youlious ramzy| 64 | up
-06 | kyrollos samy| 62 | down
-07 | mario atef |55 | down
-08 | abanoub nagy |36 | --
-09 | freddy fady |36 | --
-10 | mina hany | 35 | --
-11 | mark adel | 30 | --
-12 | abanoub tamer henen | 28 | --
-13 | mark rizkalla|26 | --
-14 | mina rizkalla| 24 |  --
-15 | mark youssef | 20 | up
-16 | bemen boshra |16 | down
-17 | fady nader |16 |  down
-18 | mina mohsen| 14 | down
-19 | mina essam  | 13 | down
-20 | peter sabry | 12 | down
-21| abanoub tamer |0 | --
+01 | kyrollos samuel | 96 | up
+02 | phillimon adel |88 | down
+03 | jan fady | 87 | down
+04 | kyrollos samy| 80 | down 
+05 | pola ayman |68 | --
+06 | youlious ramzy| 64 | --
+07 | mario atef |55 | --
+08 | freddy fady |52 | --
+09 | mina hany | 51 | --
+10 | abanoub tamer henen | 50 | --
+11 | abanoub nagy |36 | --
+12 | abanoub tamer |36 | --
+13 | mark adel | 30 | --
+14 | bemen boshra |27 | up
+15 | mark rizkalla|26 | down
+16 | mina rizkalla| 24 |  down
+17 | mark youssef | 20 | up
+18 | fady nader |16 |  down
+19 | mina mohsen| 14 | down
+20 | mina essam  | 13 | down
+21 | peter sabry | 12 | down
 22 | andrew emad| 0 | --
 23 | maged nasser| 0 | --
 24 | kyrollos maher | 0 | --
@@ -229,9 +229,7 @@ five teams attend mass/vesper together | 15
 32 | kariem john | 0 |--
 
 
-## Best team for this week 
-
-**team** **#** **?????**
+## Best team for this week  team 1 because of their efforts in el yom el ro7i and el 5edma el efteta7eya 
 
 ## TEAMS 
 
